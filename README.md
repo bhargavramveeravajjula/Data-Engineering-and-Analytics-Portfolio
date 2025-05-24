@@ -1,9 +1,11 @@
 # About Me
 
 Data Engineer & Analyst | Data Enthusiast
-I’m currently building expertise in data engineering and data analysis, focusing on end-to-end data pipelines, ETL/ELT workflows, and scalable data solutions. My learning journey includes:
+I’m currently building expertise in data engineering and data analysis, focusing on end-to-end data pipelines, ETL/ELT workflows, and scalable data solutions. 
 
-Data Engineering: Designing robust pipelines with tools like Apache Spark, Databricks, Airflow, and SQL/NoSQL databases.
+My learning journey includes:
+
+Data Engineering: Designing robust pipelines with tools like Apache Spark, Databricks, and SQL/NoSQL databases.
 
 Data Analysis: Extracting actionable insights using Python (Pandas, NumPy), SQL, Power BI, and Tableau.
 
@@ -25,16 +27,16 @@ Let’s connect if you’re working on real-time data processing, cloud migratio
 🤔 Areas for Growth
 I’m actively deepening my knowledge of:
 
-Advanced Data Engineering: Orchestration (Airflow/Dagster), distributed systems (Spark), and streaming (Kafka).
+Advanced Data Engineering: Orchestration , distributed systems, and streaming .
 
 Big Data: Handling large datasets with Hadoop/PySpark and optimizing query performance.
 
-DataOps: Implementing CI/CD for data pipelines and mastering IaC (Terraform).
+DataOps: Implementing CI/CD for data pipelines and mastering IaC.
 
 Mentorship or collaboration on real-world data challenges would be invaluable!
 
 💬 Ask Me About
-Data Engineering: ETL design, data modeling (Kimball/Inmon), or tools like Databricks/Delta Lake.
+Data Engineering: ETL design, data modeling, or tools like Databricks/Delta Lake.
 
 Data Analysis: SQL optimization, Python automation, or Power BI/Tableau visualization best practices.
 
@@ -52,11 +54,7 @@ Data Advocacy: I believe clean, well-engineered data is the foundation of impact
 📈 Data Enthusiast Extra
 When I’m not coding, you’ll find me:
 
-Experimenting with Kaggle datasets to test new tools.
-
-Writing about data engineering best practices on [Medium]/[Blog].
-
-Participating in Data Engineering Weekly challenges.
+Experimenting with datasets to work on personal projects.
 
 Let’s turn data chaos into clarity! 🚀
 
