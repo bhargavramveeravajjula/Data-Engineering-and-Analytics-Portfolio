@@ -1,12 +1,64 @@
 # About Me
 
-- 🌱 I’m currently learning to gain comprehensive knowledge in data analysis at my own pace, focusing on building a strong foundation in key concepts such as data manipulation, statistical analysis, data visualization, and working with tools like Excel, SQL, Python, and Power BI. This self-directed learning approach allows me to deeply understand each concept and develop practical skills that will support my future career in data-driven decision-making.
+Data Engineer & Analyst | Data Enthusiast
+I’m currently building expertise in data engineering and data analysis, focusing on end-to-end data pipelines, ETL/ELT workflows, and scalable data solutions. My learning journey includes:
 
-- 👯 I’m looking to collaborate on data analysis projects that involve data visualization, statistical modeling, and predictive analytics. I’m particularly interested in projects that utilize tools such as Excel, SQL, Python, and Power BI to uncover insights and support decision-making. Whether it's analyzing large datasets, optimizing business processes, or developing dashboards, I am eager to contribute and learn alongside others.
+Data Engineering: Designing robust pipelines with tools like Apache Spark, Databricks, Airflow, and SQL/NoSQL databases.
 
-- 🤔 I’m looking for help with deepening my understanding of advanced data analysis techniques, especially in areas like machine learning, big data processing, and building complex data pipelines. I’d appreciate guidance on best practices for handling large datasets, optimizing SQL queries, and mastering tools like Python libraries (Pandas, NumPy) and Power BI for more advanced visualizations and insights.
+Data Analysis: Extracting actionable insights using Python (Pandas, NumPy), SQL, Power BI, and Tableau.
 
-- 💬 Ask me about data analysis, including topics like SQL, Power BI, Python, and Excel. I’m comfortable discussing data visualization, statistical analysis, dashboard creation, and business intelligence. I can also share insights on data-driven decision-making processes and how to derive actionable insights from large datasets.
+Cloud Platforms: Exploring AWS and Azure for cloud-native data solutions.
+
+I thrive on hands-on projects that bridge raw data and business value, combining engineering rigor with analytical storytelling.
+
+👯 Collaboration Goals
+I’m excited to collaborate on:
+
+Data Engineering: Building scalable pipelines, optimizing ETL workflows, or working with Delta Lake/Snowflake for modern data warehousing.
+
+Data Analysis: Solving business problems through statistical modeling, dashboard creation, or A/B testing.
+
+Open-Source Tools: Contributing to projects involving Apache Kafka, dbt, or Great Expectations for data quality.
+
+Let’s connect if you’re working on real-time data processing, cloud migrations, or MLOps pipelines!
+
+🤔 Areas for Growth
+I’m actively deepening my knowledge of:
+
+Advanced Data Engineering: Orchestration (Airflow/Dagster), distributed systems (Spark), and streaming (Kafka).
+
+Big Data: Handling large datasets with Hadoop/PySpark and optimizing query performance.
+
+DataOps: Implementing CI/CD for data pipelines and mastering IaC (Terraform).
+
+Mentorship or collaboration on real-world data challenges would be invaluable!
+
+💬 Ask Me About
+Data Engineering: ETL design, data modeling (Kimball/Inmon), or tools like Databricks/Delta Lake.
+
+Data Analysis: SQL optimization, Python automation, or Power BI/Tableau visualization best practices.
+
+Career Tips: Transitioning into data roles, balancing engineering and analysis skills, or building a data portfolio.
+
+P.S. I love geeking out about data trends (lakehouses, LLMs in BI) and data quality frameworks!
+
+🌟 Why Work With Me?
+Hybrid Skillset: I bridge the gap between engineering (building pipelines) and analysis (deriving insights).
+
+Problem-Solver: From debugging a broken Airflow DAG to optimizing a slow SQL query, I enjoy untangling data puzzles.
+
+Data Advocacy: I believe clean, well-engineered data is the foundation of impactful analytics.
+
+📈 Data Enthusiast Extra
+When I’m not coding, you’ll find me:
+
+Experimenting with Kaggle datasets to test new tools.
+
+Writing about data engineering best practices on [Medium]/[Blog].
+
+Participating in Data Engineering Weekly challenges.
+
+Let’s turn data chaos into clarity! 🚀
 
 - 📫 How to reach me:
 
